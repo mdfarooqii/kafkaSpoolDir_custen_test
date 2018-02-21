@@ -1,0 +1,15 @@
+com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirCsvSourceConnectorConfig.class
+com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirCsvSourceTask.class
+com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirSourceConnector.class
+com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirSourceConnectorConfig.class
+com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirJsonSourceTask.class
+com\ubs\risk\arisk\kafka\connect\spooldir\JsonSchemaGenerator.class
+com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirSourceConnectorConfig$TimestampMode.class
+com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirSourceTask.class
+com\ubs\risk\arisk\kafka\connect\spooldir\SchemaGenerator.class
+com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirJsonSourceConnector.class
+com\ubs\risk\arisk\kafka\connect\spooldir\CsvSchemaGenerator.class
+com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirSourceTask$1.class
+com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirJsonSourceConnectorConfig.class
+com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirCsvSourceConnector.class
+com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirCsvSourceConnectorConfig$CharsetValidator.class

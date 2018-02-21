@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="copy_docs"  >
+<target name="copy_docs">
+  <copy todir="C:\farooq_learning\softwares\Kafka\kafka_dir_spool\kafka-connect-spooldir-master/target/docs" failonerror="true">
+    <fileset dir="target">
+      <include name="changelog.rst"/>
+    </fileset>
+  </copy>
+  <copy todir="C:\farooq_learning\softwares\Kafka\kafka_dir_spool\kafka-connect-spooldir-master/target/docs" failonerror="false">
+    <fileset dir="docs">
+      <include name="**/*"/>
+    </fileset>
+  </copy>
+</target>
+</project>

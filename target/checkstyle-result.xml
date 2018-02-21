@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\farooq_learning\softwares\Kafka\kafka_dir_spool\kafka-connect-spooldir-master\src\main\java\com\ubs\risk\arisk\kafka\connect\spooldir\CsvSchemaGenerator.java">
+</file>
+<file name="C:\farooq_learning\softwares\Kafka\kafka_dir_spool\kafka-connect-spooldir-master\src\main\java\com\ubs\risk\arisk\kafka\connect\spooldir\JsonSchemaGenerator.java">
+</file>
+<file name="C:\farooq_learning\softwares\Kafka\kafka_dir_spool\kafka-connect-spooldir-master\src\main\java\com\ubs\risk\arisk\kafka\connect\spooldir\SchemaGenerator.java">
+</file>
+<file name="C:\farooq_learning\softwares\Kafka\kafka_dir_spool\kafka-connect-spooldir-master\src\main\java\com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirCsvSourceConnector.java">
+</file>
+<file name="C:\farooq_learning\softwares\Kafka\kafka_dir_spool\kafka-connect-spooldir-master\src\main\java\com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirCsvSourceConnectorConfig.java">
+</file>
+<file name="C:\farooq_learning\softwares\Kafka\kafka_dir_spool\kafka-connect-spooldir-master\src\main\java\com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirCsvSourceTask.java">
+</file>
+<file name="C:\farooq_learning\softwares\Kafka\kafka_dir_spool\kafka-connect-spooldir-master\src\main\java\com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirJsonSourceConnector.java">
+</file>
+<file name="C:\farooq_learning\softwares\Kafka\kafka_dir_spool\kafka-connect-spooldir-master\src\main\java\com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirJsonSourceConnectorConfig.java">
+</file>
+<file name="C:\farooq_learning\softwares\Kafka\kafka_dir_spool\kafka-connect-spooldir-master\src\main\java\com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirJsonSourceTask.java">
+</file>
+<file name="C:\farooq_learning\softwares\Kafka\kafka_dir_spool\kafka-connect-spooldir-master\src\main\java\com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirSourceConnector.java">
+</file>
+<file name="C:\farooq_learning\softwares\Kafka\kafka_dir_spool\kafka-connect-spooldir-master\src\main\java\com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirSourceConnectorConfig.java">
+</file>
+<file name="C:\farooq_learning\softwares\Kafka\kafka_dir_spool\kafka-connect-spooldir-master\src\main\java\com\ubs\risk\arisk\kafka\connect\spooldir\SpoolDirSourceTask.java">
+</file>
+</checkstyle>
